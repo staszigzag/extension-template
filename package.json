@@ -13,7 +13,6 @@
     "build-only": "vite build",
     "preview": "vite preview",
     "type-check": "vue-tsc --build --force",
-    "fmt": "prettier --write '**/*.{vue,ts,json,css,scss,md}'",
     "lint": "eslint --cache .",
     "lint:fix": "eslint . --fix",
     "format": "prettier --write src/",
